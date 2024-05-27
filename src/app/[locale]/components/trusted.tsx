@@ -13,9 +13,6 @@ interface TrustedItem {
   linkIcon?: React.ReactNode;
 }
 const trustedList: [TrustedItem[], TrustedItem[], TrustedItem[]] = [
-  [
-
-  ],
 ];
 
 export const Trusted = async () => {
