@@ -54,13 +54,13 @@ export default async function RootLayout({
     {
       icon: <IconBrandGithub />,
       // <GithubIcon className="w-6 h-6" />,
-      href: "https://github.com/ZissyW/startup-boilerplate",
-      title: "Github",
+      href: "https://docs.qq.com/sheet/DZVROU0lPWVhEcEFB?tab=BB08J2",
+      title: "Doc",
     },
     {
       icon: <IconBrandX />,
       //  <XIcon className="w-6 h-6 p-1" />,
-      href: "https://twitter.com/zissy_w",
+      href: "https://twitter.com/zhugezifang",
       title: "Twitter",
     },
   ];

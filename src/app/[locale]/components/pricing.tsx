@@ -34,7 +34,7 @@ export const Pricing = async () => {
                   {t("pricing.openSource.price")}
                 </p>
                 <Link
-                  href="https://github.com/ZissyW/startup-boilerplate"
+                  href="https://docs.qq.com/sheet/DZVROU0lPWVhEcEFB?tab=BB08J2"
                   target="_blank"
                   className="bg-blue-500 inline-flex items-center h-10 text-base rounded text-white px-6 mb-6"
                 >

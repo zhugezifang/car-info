@@ -30,7 +30,7 @@ export const Footer = ({ links, socialLinks, ...props }: FooterProps) => {
           </nav>
 
           <div className="text-sm text-zinc-400 text-center">
-            Copyright © tailsc {new Date().getFullYear()} - ZissyW | All rights
+            Copyright © tailsc {new Date().getFullYear()} | All rights
             reserved
           </div>
         </div>
