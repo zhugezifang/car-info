@@ -5,8 +5,8 @@ import { env } from "~/env.mjs";
 import { Metadata } from "next";
 import { Languages } from "next/dist/lib/metadata/types/alternative-urls-types";
 
-export const locales = ["en", "de", "fr", "zh", "ja", "es"];
-export const defaultLocale = "en";
+export const locales = ["zh"];
+export const defaultLocale = "zh";
 
 export const createCanonical = async (path?: string) => {
   const locale = await getLocale();
