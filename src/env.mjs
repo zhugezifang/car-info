@@ -8,7 +8,7 @@ export const env = createEnv({
    */
   server: {
     NODE_ENV: z.enum(["development", "production"]).default("development"),
-    SITE_URL: z.string(),
+    SITE_URL: z.string().default(""),
     GA_TRACKING_ID: z.string().optional(),
   },
 
