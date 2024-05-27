@@ -40,16 +40,6 @@ export const HeroSection = async () => {
                 </div>
                 <div>{t("downloadButton")}</div>
               </Link>
-              <Link
-                href="https://docs.qq.com/sheet/DZVROU0lPWVhEcEFB?tab=BB08J2"
-                target="_blank"
-                className="border-2 border-solid border-zinc-800 bg-white/50 hover:bg-zinc-100/50 text-zinc-800 flex items-center justify-center gap-2 h-12 px-6 rounded cursor-pointer w-full sm:w-auto"
-              >
-                <div className="w-6 h-6">
-                  <GithubIcon />
-                </div>
-                <div>{t("githubRepo")}</div>
-              </Link>
             </div>
           </div>
           <div className="flex-1 min-w-0 hidden md:block">

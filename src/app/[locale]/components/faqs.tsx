@@ -13,33 +13,24 @@ export const FAQs = async () => {
       label: t("faqs.items.what.heading"),
       links: [
         { label: t("faqs.items.what.question.1"), href: "#" },
-        { label: t("faqs.items.what.question.2"), href: "#" },
-        { label: t("faqs.items.what.question.3"), href: "#" },
-        { label: t("faqs.items.what.question.4"), href: "#" },
       ],
     },
     {
       label: t("faqs.items.how.heading"),
       links: [
         { label: t("faqs.items.how.question.1"), href: "#" },
-        { label: t("faqs.items.how.question.2"), href: "#" },
-        { label: t("faqs.items.how.question.3"), href: "#" },
       ],
     },
     {
       label: t("faqs.items.can.heading"),
       links: [
         { label: t("faqs.items.can.question.1"), href: "#" },
-        { label: t("faqs.items.can.question.2"), href: "#" },
-        { label: t("faqs.items.can.question.3"), href: "#" },
       ],
     },
     {
       label: t("faqs.items.pricing.heading"),
       links: [
         { label: t("faqs.items.pricing.question.1"), href: "#" },
-        { label: t("faqs.items.pricing.question.2"), href: "#" },
-        { label: t("faqs.items.pricing.question.3"), href: "#" },
       ],
     },
   ];

@@ -14,76 +14,7 @@ interface TrustedItem {
 }
 const trustedList: [TrustedItem[], TrustedItem[], TrustedItem[]] = [
   [
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aliquid quo eum quae quos illo earum ipsa doloribus nostrum minus libero aspernatur laborum cum, a suscipit, ratione ea totam ullam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum.",
-      linkIcon: <IconBrandX />,
-      link: "https://twitter.com/zissy_w",
-    },
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "Illum aliquid quo eum quae quos illo laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum.",
-      link: "https://twitter.com/zissy_w",
-    },
-  ],
 
-  [
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "Just want to express my gratitude for the excellent customer support. Had a small hiccup during my tental.",
-      linkIcon: <IconBrandX />,
-      link: "https://twitter.com/zissy_w",
-    },
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "Enviornmentally conscious options are a winner! I chose an eco-friendly car, and it was not only effcient but also aligned with my values. A grat initiative.",
-      linkIcon: <IconBrandX />,
-      link: "https://twitter.com/zissy_w",
-    },
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "We'll create high-quality linkable content and build at least 40 high-authority links to each asset, paving the way for you to grow your rankings, improve brand.",
-    },
-  ],
-  [
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "Quick and easy reservation process. Within minutes, I had my rental booked online.",
-      linkIcon: <IconBrandX />,
-      link: "https://twitter.com/zissy_w",
-    },
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content:
-        "We'll create high-quality linkable content and build at least 40 high-authority links to each asset, paving the way for you to grow your rankings, improve brand.",
-    },
-    {
-      author: "John Doe",
-      label: "CEO, Company",
-      avatar: Avatar.src,
-      content: "Great! Will definitely rent again.",
-      link: "https://twitter.com/zissy_w",
-    },
   ],
 ];
 
