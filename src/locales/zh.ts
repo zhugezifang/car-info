@@ -86,25 +86,25 @@ const messages = {
         what: {
           heading: "汽车价格",
           question: {
-            "1": "汽车价格信息"
+            "1": "汽车价格信息",
           },
         },
         how: {
           heading: "汽车品牌",
           question: {
-            "1": "汽车品牌信息"
+            "1": "汽车品牌信息",
           },
         },
         can: {
           heading: "汽车销量",
           question: {
-            "1": "汽车销量信息"
+            "1": "汽车销量信息",
           },
         },
         pricing: {
           heading: "汽车数据",
           question: {
-            "1": "汽车数据大全"
+            "1": "汽车数据大全",
           },
         },
       },
