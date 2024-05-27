@@ -53,10 +53,10 @@ export const MobileHeader = ({
               </div>
               <div className="flex-1 min-w-0">
                 <div className="text-lg font-medium text-zinc-800 leading-none mb-1">
-                  Startup Boilerplate
+                    汽车数据大全
                 </div>
                 <div className="text-xs leading-none text-zinc-500">
-                  NextJS Startup Template
+                  汽车价格
                 </div>
               </div>
               <IconX strokeWidth={1.2} size={36} onClick={() => close()} />
