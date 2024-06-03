@@ -5,7 +5,7 @@ import { locales, defaultLocale } from "~/i18n";
 export default function sitemap(): MetadataRoute.Sitemap {
   const list: MetadataRoute.Sitemap = [
     {
-      url: env.SITE_URL,
+      url: "https://www.car-infos.vercel.app",
       lastModified: new Date(),
       priority: 1,
     },
