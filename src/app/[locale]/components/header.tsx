@@ -2,7 +2,6 @@ import clsx from "clsx";
 import { Logo } from "~/components";
 import { Link } from "~/navigation";
 
-import { LangSwitch } from "./lang-switch";
 import { MobileHeader } from "./mobile-header";
 
 export interface SocialLinkItem {
@@ -63,7 +62,6 @@ export const Header = ({
               </Link>
             ))}
           </div>
-          <LangSwitch />
         </div>
         <div className="grow md:hidden" />
         <MobileHeader
